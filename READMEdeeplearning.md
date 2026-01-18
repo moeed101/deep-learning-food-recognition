@@ -92,7 +92,6 @@ This demonstrates how model predictions can be integrated with structured data t
 
 * Python
 * PyTorch & Torchvision
-* Albumentations
 * NumPy, Pandas
 * Scikit-learn
 * Matplotlib
